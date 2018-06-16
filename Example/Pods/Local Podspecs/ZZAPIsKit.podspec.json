@@ -18,5 +18,13 @@
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "ZZAPIsKit/Classes/**/*"
+  "source_files": "ZZAPIsKit/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "FMDB": [
+
+    ]
+  }
 }
